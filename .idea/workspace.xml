@@ -2,112 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9ce4c00-29a8-4583-9d65-e5c68fd6e746" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.generators" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.rakeTasks" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.ids" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/webapp_shell.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/C70/3A0/sprockets%2Fe5d76525e0496d37408479c974846f4d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/C94/910/sprockets%2F497a573f16d6f76c9953480d4d44055c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/CAE/820/sprockets%2F855ac8403e3590bf39164e585f113aa4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/CB8/2A0/sprockets%2F6e0ef3f1709774a0393b272850d8dc58" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/CCD/A20/sprockets%2Fe35959d9e3b6fbd949ba882223656296" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/CD7/F50/sprockets%2F23288bf70089c134ca4952d2deb82d20" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/CE9/2E0/sprockets%2F7e498769c96597c45e7bd97f79a3f845" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/CFD/740/sprockets%2F490d8d0116618c50bbad2fa9336e10e3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/D01/010/sprockets%2Fdd5aac3155ed14a42474f4116b28e329" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/D05/800/sprockets%2F3f43833b8f20c810a004dba995eb18f4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/D0B/B10/sprockets%2F25eb60cbc97e383b0be57b080a783086" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/D10/E80/sprockets%2Fe1170fe0fe987b4b54dc671a30527c49" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/D2C/250/sprockets%2F57f1447213accc61bab4ca9d57330e24" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/D34/4C0/sprockets%2F070374ee44b8fbf00801ca9a07ce2e75" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/D46/560/sprockets%2F4f6d64fa7997a00eb10a778b91fc46c3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/D59/4B0/sprockets%2F2a499ac32a8a441163bfee140551dbdb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/D59/8F0/sprockets%2Fa0e6329df704f8ce8d6d7ee81854786b" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/D64/CB0/sprockets%2F6a193461d1efcfdc0bd1dd67228044e4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/D68/680/sprockets%2Ff3ffad83400d49d8c3c26439adae4042" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/D68/EA0/sprockets%2Faa1cd446ab60f3d124d8183964d85cbf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/D6C/5D0/sprockets%2Ff25d44e2563bcf90ffe9541cc6d00a90" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/D71/890/sprockets%2F082b8d453bfaae95f1b5c6b036777f1f" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/D7A/160/sprockets%2Ff16dffe8c76201dfd8d72e208f4133e9" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/D7C/5C0/sprockets%2Ff0b890b1b5d68b99e64c2638c6eb5ce5" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/D92/2E0/sprockets%2Fc7fff8fd8ce3845221e763fbd82e7996" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/DA6/DD0/sprockets%2Fe5e6398a25268f31ce3525ffcea7ac2f" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/DB4/460/sprockets%2F2f9c63cc65ddf755ea09e397df29db81" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/E23/E40/sprockets%2Fda7526e2e5faed9dee2cd3a3005e9a0b" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/assets/E27/840/sprockets%2Feab18bf6a5367ec3efe55c11e2e7ace0" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/sass/136db6787a21553a70c8a79da99084aaa2b83821/_bootstrap.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/sass/3bfc9d1aec16d57bbd203e02bfb47fcca800a1da/_accordion.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/sass/3bfc9d1aec16d57bbd203e02bfb47fcca800a1da/_alerts.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/sass/3bfc9d1aec16d57bbd203e02bfb47fcca800a1da/_breadcrumbs.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/sass/3bfc9d1aec16d57bbd203e02bfb47fcca800a1da/_button-groups.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/sass/3bfc9d1aec16d57bbd203e02bfb47fcca800a1da/_buttons.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/sass/3bfc9d1aec16d57bbd203e02bfb47fcca800a1da/_carousel.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/sass/3bfc9d1aec16d57bbd203e02bfb47fcca800a1da/_close.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/sass/3bfc9d1aec16d57bbd203e02bfb47fcca800a1da/_code.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/sass/3bfc9d1aec16d57bbd203e02bfb47fcca800a1da/_component-animations.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/sass/3bfc9d1aec16d57bbd203e02bfb47fcca800a1da/_dropdowns.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/sass/3bfc9d1aec16d57bbd203e02bfb47fcca800a1da/_forms.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/sass/3bfc9d1aec16d57bbd203e02bfb47fcca800a1da/_grid.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/sass/3bfc9d1aec16d57bbd203e02bfb47fcca800a1da/_hero-unit.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/sass/3bfc9d1aec16d57bbd203e02bfb47fcca800a1da/_labels.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/sass/3bfc9d1aec16d57bbd203e02bfb47fcca800a1da/_layouts.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/sass/3bfc9d1aec16d57bbd203e02bfb47fcca800a1da/_mixins.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/sass/3bfc9d1aec16d57bbd203e02bfb47fcca800a1da/_modals.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/sass/3bfc9d1aec16d57bbd203e02bfb47fcca800a1da/_navbar.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/sass/3bfc9d1aec16d57bbd203e02bfb47fcca800a1da/_navs.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/sass/3bfc9d1aec16d57bbd203e02bfb47fcca800a1da/_pager.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/sass/3bfc9d1aec16d57bbd203e02bfb47fcca800a1da/_pagination.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/sass/3bfc9d1aec16d57bbd203e02bfb47fcca800a1da/_popovers.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/sass/3bfc9d1aec16d57bbd203e02bfb47fcca800a1da/_progress-bars.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/sass/3bfc9d1aec16d57bbd203e02bfb47fcca800a1da/_reset.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/sass/3bfc9d1aec16d57bbd203e02bfb47fcca800a1da/_scaffolding.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/sass/3bfc9d1aec16d57bbd203e02bfb47fcca800a1da/_sprites.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/sass/3bfc9d1aec16d57bbd203e02bfb47fcca800a1da/_tables.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/sass/3bfc9d1aec16d57bbd203e02bfb47fcca800a1da/_thumbnails.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/sass/3bfc9d1aec16d57bbd203e02bfb47fcca800a1da/_tooltip.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/sass/3bfc9d1aec16d57bbd203e02bfb47fcca800a1da/_type.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/sass/3bfc9d1aec16d57bbd203e02bfb47fcca800a1da/_utilities.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/sass/3bfc9d1aec16d57bbd203e02bfb47fcca800a1da/_variables.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/sass/3bfc9d1aec16d57bbd203e02bfb47fcca800a1da/_wells.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/cache/sass/b8cc5ed0ea9def716662fa3f681420a15b1acc6d/custom.css.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/controllers/microposts_controller.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/controllers/relationships_controller.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/models/micropost.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/models/relationship.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/microposts/_micropost.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/relationships/create.js.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/relationships/destroy.js.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/shared/_feed.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/shared/_feed_item.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/shared/_micropost_form.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/shared/_stats.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/users/_follow.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/users/_follow_form.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/users/_unfollow.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/users/show_follow.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/migrate/20120318041518_create_microposts.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/migrate/20120318170758_create_relationships.rb" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/tmp/cache/assets/E04/890/sprockets%2F2f5173deea6c795b8fdde723bb4b63af" afterPath="$PROJECT_DIR$/tmp/cache/assets/D83/980/sprockets%2F2d32946925dd956f4a679abbef6d2eb9" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/cache/assets/CD8/370/sprockets%2F357970feca3ac29060c1e3861e2c0953" afterPath="$PROJECT_DIR$/tmp/cache/assets/CD8/370/sprockets%2F357970feca3ac29060c1e3861e2c0953" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/cache/assets/D0F/CE0/sprockets%2Fd6c7ce3ac277094b04690a43947ede22" afterPath="$PROJECT_DIR$/tmp/cache/assets/D0F/CE0/sprockets%2Fd6c7ce3ac277094b04690a43947ede22" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/cache/assets/D32/A10/sprockets%2F13fe41fee1fe35b49d145bcc06610705" afterPath="$PROJECT_DIR$/tmp/cache/assets/D32/A10/sprockets%2F13fe41fee1fe35b49d145bcc06610705" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/cache/assets/D4E/1B0/sprockets%2Ff7cbd26ba1d28d48de824f0e94586655" afterPath="$PROJECT_DIR$/tmp/cache/assets/D4E/1B0/sprockets%2Ff7cbd26ba1d28d48de824f0e94586655" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/cache/assets/D5A/EA0/sprockets%2Fd771ace226fc8215a3572e0aa35bb0d6" afterPath="$PROJECT_DIR$/tmp/cache/assets/D5A/EA0/sprockets%2Fd771ace226fc8215a3572e0aa35bb0d6" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/cache/assets/DCE/A10/sprockets%2Fedbf63d87f211c17de329b8a471a7caf" afterPath="$PROJECT_DIR$/tmp/cache/assets/DCE/A10/sprockets%2Fedbf63d87f211c17de329b8a471a7caf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/cache/assets/E04/890/sprockets%2F2f5173deea6c795b8fdde723bb4b63af" afterPath="$PROJECT_DIR$/tmp/cache/assets/E04/890/sprockets%2F2f5173deea6c795b8fdde723bb4b63af" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/static_pages/home.html.erb" afterPath="$PROJECT_DIR$/app/views/static_pages/home.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/users/show.html.erb" afterPath="$PROJECT_DIR$/app/views/users/show.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/routes.rb" afterPath="$PROJECT_DIR$/config/routes.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/development.sqlite3" afterPath="$PROJECT_DIR$/db/development.sqlite3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/log/development.log" afterPath="$PROJECT_DIR$/log/development.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/static_pages_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/static_pages_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/users_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/users_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/user.rb" afterPath="$PROJECT_DIR$/app/models/user.rb" />
     </list>
     <ignored path="webapp_shell.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -129,17 +27,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="edit.html.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/users/edit.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
-              <folding>
-                <marker date="1343212420000" expanded="true" signature="87:516" placeholder="do ... end" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="home.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/static_pages/home.html.erb">
           <provider selected="true" editor-type-id="text-editor">
@@ -156,43 +43,56 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="show.html.erb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="show.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/users/show.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="14" selection-start="187" selection-end="187" vertical-scroll-proportion="0.22495607">
+            <state line="8" column="14" selection-start="187" selection-end="187" vertical-scroll-proportion="-5.12">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_shim.html.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/layouts/_shim.html.erb">
+      <file leaf-file-name="application_controller.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding>
-                <marker date="1343212420000" expanded="true" signature="4:102" placeholder="..." />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_header.html.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/layouts/_header.html.erb">
+      <file leaf-file-name="sessions_controller.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/sessions_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding>
-                <marker date="1343212420000" expanded="true" signature="7:1244" placeholder="..." />
-                <marker date="1343212420000" expanded="true" signature="48:1244" placeholder="..." />
-                <marker date="1343212420000" expanded="true" signature="77:1234" placeholder="..." />
-                <marker date="1343212420000" expanded="true" signature="105:1225" placeholder="..." />
-                <marker date="1343212420000" expanded="true" signature="181:1214" placeholder="..." />
-                <marker date="1343212420000" expanded="true" signature="217:1201" placeholder="..." />
-                <marker date="1343212420000" expanded="true" signature="444:1185" placeholder="if ... end" />
-                <marker date="1343212420000" expanded="true" signature="563:1087" placeholder="..." />
-                <marker date="1343212420000" expanded="true" signature="637:702" placeholder="..." />
-                <marker date="1343212420000" expanded="true" signature="743:1069" placeholder="..." />
-                <marker date="1343212420000" expanded="true" signature="951:1049" placeholder="..." />
-              </folding>
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="static_pages_controller.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/static_pages_controller.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="10" selection-start="62" selection-end="62" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="users_controller.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/users_controller.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="24" column="34" selection-start="561" selection-end="561" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="user.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/models/user.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="24" column="2" selection-start="770" selection-end="770" vertical-scroll-proportion="0.64646465">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -237,27 +137,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="routes.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/routes.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="0" selection-start="114" selection-end="114" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_user.html.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/users/_user.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding>
-                <marker date="1343212420000" expanded="true" signature="3:221" placeholder="..." />
-                <marker date="1343212420000" expanded="true" signature="80:213" placeholder="if ... end" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FindManager">
@@ -277,6 +156,9 @@
         <option value="$PROJECT_DIR$/app/views/users/show.html.erb" />
         <option value="$PROJECT_DIR$/app/views/static_pages/home.html.erb" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
+        <option value="$PROJECT_DIR$/app/controllers/static_pages_controller.rb" />
+        <option value="$PROJECT_DIR$/app/controllers/users_controller.rb" />
+        <option value="$PROJECT_DIR$/app/models/user.rb" />
       </list>
     </option>
   </component>
@@ -972,40 +854,11 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/config/environment.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/routes.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="1" selection-start="114" selection-end="114" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/sessions_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/users/new.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/users/index.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/users/edit.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding>
-            <marker date="1343212420000" expanded="true" signature="87:516" placeholder="do ... end" />
+            <marker date="1343212420000" expanded="true" signature="-1:-1" placeholder="do ... end" />
           </folding>
         </state>
       </provider>
@@ -1014,8 +867,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding>
-            <marker date="1343212420000" expanded="true" signature="3:221" placeholder="..." />
-            <marker date="1343212420000" expanded="true" signature="80:213" placeholder="if ... end" />
+            <marker date="1343212420000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1343212420000" expanded="true" signature="-1:-1" placeholder="if ... end" />
           </folding>
         </state>
       </provider>
@@ -1024,7 +877,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding>
-            <marker date="1343212420000" expanded="true" signature="4:102" placeholder="..." />
+            <marker date="1343212420000" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -1033,17 +886,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding>
-            <marker date="1343212420000" expanded="true" signature="7:1244" placeholder="..." />
-            <marker date="1343212420000" expanded="true" signature="48:1244" placeholder="..." />
-            <marker date="1343212420000" expanded="true" signature="77:1234" placeholder="..." />
-            <marker date="1343212420000" expanded="true" signature="105:1225" placeholder="..." />
-            <marker date="1343212420000" expanded="true" signature="181:1214" placeholder="..." />
-            <marker date="1343212420000" expanded="true" signature="217:1201" placeholder="..." />
-            <marker date="1343212420000" expanded="true" signature="444:1185" placeholder="if ... end" />
-            <marker date="1343212420000" expanded="true" signature="563:1087" placeholder="..." />
-            <marker date="1343212420000" expanded="true" signature="637:702" placeholder="..." />
-            <marker date="1343212420000" expanded="true" signature="743:1069" placeholder="..." />
-            <marker date="1343212420000" expanded="true" signature="951:1049" placeholder="..." />
+            <marker date="1343212420000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1343212420000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1343212420000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1343212420000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1343212420000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1343212420000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1343212420000" expanded="true" signature="-1:-1" placeholder="if ... end" />
+            <marker date="1343212420000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1343212420000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1343212420000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1343212420000" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -1112,7 +965,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/users/show.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="14" selection-start="187" selection-end="187" vertical-scroll-proportion="0.22495607">
+        <state line="8" column="14" selection-start="187" selection-end="187" vertical-scroll-proportion="-5.12">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/sessions_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/static_pages_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="10" selection-start="62" selection-end="62" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/users_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="34" selection-start="561" selection-end="561" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/user.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="2" selection-start="770" selection-end="770" vertical-scroll-proportion="0.64646465">
           <folding />
         </state>
       </provider>
